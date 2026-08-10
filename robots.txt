@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: v-kakih-kazino-est-oplata-po-sbp.github.io
+Sitemap: https://v-kakih-kazino-est-oplata-po-sbp.github.io/sitemap.xml
